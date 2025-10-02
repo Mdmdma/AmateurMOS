@@ -1,0 +1,14 @@
+name: s4-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+    - stelspec
+    - astropy

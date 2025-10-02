@@ -1,0 +1,40 @@
+hdu_index,hdu_name,keyword,value,comment
+0,PRIMARY,SIMPLE,True,conforms to FITS standard
+0,PRIMARY,BITPIX,-32,array data type
+0,PRIMARY,NAXIS,1,number of array dimensions
+0,PRIMARY,NAXIS1,1569128,
+0,PRIMARY,EXTEND,True,
+0,PRIMARY,EXTNAME,PRIMARY,
+0,PRIMARY,WAVE,../../WAVE_PHOENIX-ACES-AGSS-COND-2011.fits,Wavelength array
+0,PRIMARY,PHXTEFF,6000.0,[K] effective temperature
+0,PRIMARY,PHXLOGG,4.0,[cm/s^2] log (surface gravity)
+0,PRIMARY,PHXM_H,0.0,[M/H] metallicity (rel. sol. - Asplund &a 2009)
+0,PRIMARY,PHXALPHA,0.0,[a/M] alpha element enhancement
+0,PRIMARY,PHXDUST,False,Dust in atmosphere
+0,PRIMARY,PHXEOS,ACES,Equation of state
+0,PRIMARY,PHXBUILD,02/Aug/2010,Build date of Phoenix
+0,PRIMARY,PHXVER,16.01.00B,Phoenix version
+0,PRIMARY,DATE,2012-08-27 17:48:39,[local] finishing date of model calculation
+0,PRIMARY,PHXXI_L,1.25,[km/s] microturbulence velocity for LTE lines
+0,PRIMARY,PHXXI_M,1.25,[km/s] microturbulence velocity for molec lines
+0,PRIMARY,PHXXI_N,1.25,[km/s] microturbulence velocity for NLTE lines
+0,PRIMARY,PHXMASS,2.5811e+33,[kg] Stellar mass
+0,PRIMARY,PHXREFF,131120000000.0,[cm] Effective stellar radius
+0,PRIMARY,PHXLUM,1.5904e+34,[W] Stellar luminosity
+0,PRIMARY,PHXMXLEN,1.53258079748,Mixing length
+0,PRIMARY,BUNIT,erg/s/cm^2/cm,Unit of flux
+1,ABUNDANCES,XTENSION,BINTABLE,binary table extension
+1,ABUNDANCES,BITPIX,8,array data type
+1,ABUNDANCES,NAXIS,2,number of array dimensions
+1,ABUNDANCES,NAXIS1,8,length of dimension 1
+1,ABUNDANCES,NAXIS2,83,length of dimension 2
+1,ABUNDANCES,PCOUNT,0,number of group parameters
+1,ABUNDANCES,GCOUNT,1,number of groups
+1,ABUNDANCES,TFIELDS,3,number of table fields
+1,ABUNDANCES,TTYPE1,ID,
+1,ABUNDANCES,TFORM1,I,
+1,ABUNDANCES,TTYPE2,Element,
+1,ABUNDANCES,TFORM2,2A,
+1,ABUNDANCES,TTYPE3,Abundance,
+1,ABUNDANCES,TFORM3,E,
+1,ABUNDANCES,EXTNAME,ABUNDANCES,
