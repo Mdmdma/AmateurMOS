@@ -3,7 +3,7 @@ This repository contains the supplementary materials for the semester project ab
 
 ### The repository is available for download with
 ```
-git clone git@github.com:Mdmdma/s4.git
+git clone git@github.com:Mdmdma/AmateurMOS.git
 ```
 
 ### TLDR 
