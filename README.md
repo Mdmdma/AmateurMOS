@@ -1,7 +1,7 @@
 # Prospects of Multi-Object Spectroscopy in advanced Amateur Astronomy
-This repository contains the supplementary materials for the semester project about MOS at a small telescope using a DMD chip as a variable slit mask. 
+This repository contains the supplementary materials for the semester project about MOS at a small telescope using a DMD chip as a variable slit mask. The full thesis can be found [here](AmateurMOS_tesis.pdf).
 
-### The repository is available for download with
+### The repository is available for download with:
 ```
 git clone git@github.com:Mdmdma/AmateurMOS.git
 ```
