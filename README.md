@@ -7,4 +7,4 @@ git clone git@github.com:Mdmdma/AmateurMOS.git
 ```
 
 ### TLDR 
-While it is possible to construct an optical setup achieving a spectral resolution of 200, which is sufficient to distinguish the line shape of the hydrogen lines at different temperatures, it is not possible to have a multitude of different objects that are bright enough in the field of view to get an advantage over a much more simple setup using a single slit. 
+While it is possible to construct an optical setup achieving a spectral resolution of R=200, which is sufficient to distinguish the line shape of the hydrogen lines at different temperatures, it is not possible to have a multitude of different objects that are bright enough in the field of view to get an advantage over a much more simple setup using a single slit. The proposed design therefore has little benefits besides teaching. In teaching on the other hand it covers a wide range of topics and engeneering challanges, from optical design and micoroelectronic devices over mechanical design and 3d printing to the science case, which in this case, as it turns out, is weak. 
